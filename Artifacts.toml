@@ -1,160 +1,160 @@
 [[catch22]]
 arch = "aarch64"
-git-tree-sha1 = "e5361b22b802b16781f73aaa2b24ac07ba9bdea0"
+git-tree-sha1 = "34a84d9a8955456c91af7da44250607676cc8809"
 os = "macos"
 
     [[catch22.download]]
-    sha256 = "c803a0d69cd0664b1601a121290bf5c679578dd1366feceb9db4a290093a1fb1"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "8030f2c9960437685e879159ccb21910b3eba4f0cde1158574f1785304989523"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.aarch64-apple-darwin.tar.gz"
 [[catch22]]
 arch = "aarch64"
-git-tree-sha1 = "6757e197ea1e60bc51048687a9a7b037c6eb7a18"
+git-tree-sha1 = "2a5245c4202620d5de0301a581a250da8dfecc23"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "458991a7e89c411d308bbb019c18da2f32f6424021c1c6dcf52d35de78e6efee"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "8116011cb478f35e6b7cce9e5dfd771b90073ad67e921e730278165b407f229a"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.aarch64-linux-gnu.tar.gz"
 [[catch22]]
 arch = "aarch64"
-git-tree-sha1 = "97f202c2eb16591dea20b9eee45d96f9818cb066"
+git-tree-sha1 = "1236db24fd72a09adfcec36ec00bb97f45f52791"
 libc = "musl"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "c6e113100925f42d6205deb926d82fc982adebb33ac4c7f3731c0171e665b09e"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.aarch64-linux-musl.tar.gz"
+    sha256 = "7332f624d677257e09bbdbf5c916be505efb2eefa1507708092245a52475620a"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.aarch64-linux-musl.tar.gz"
 [[catch22]]
 arch = "aarch64"
-git-tree-sha1 = "d6c7a6da485fa3967c27f7fa308a9fa02492416c"
+git-tree-sha1 = "b08fd0a76c7c65a0f083526c7df27d5c94e92ef5"
 os = "freebsd"
 
     [[catch22.download]]
-    sha256 = "c2e391d89098bb10fd9b620c8576610d0dfa85bb72f0c48c3e8cf4aac204d064"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "2383527ce360d0c9ead28fa160f63af7152f3e9bdf4db211367c9c2a2bbfed4a"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.aarch64-unknown-freebsd.tar.gz"
 [[catch22]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7daebac19e87627ba6122bf45bf87c24429c46bd"
+git-tree-sha1 = "80709b6b19ffdd1c125e95e7cf9c3e7083901157"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "2d90162f32b131a179f349448513240cf551d1d8daeb18baadb1f89eb9ed368b"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "2808e28bc575534e62d30b2e6ae2503735c716a4358445c7f9d219785ae2fb98"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.armv6l-linux-gnueabihf.tar.gz"
 [[catch22]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "77ef0efb7f7bd987393be58ee6abb4543e7b2045"
+git-tree-sha1 = "4ef91d1f414a5e3a79888bcddf615eeb2214afc5"
 libc = "musl"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "881339559fa46caa99fa9182cf49b4bbb19aaa10a31a7238bd4cd571453ad641"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c9729b0d0b1e4473edcdd72609d812b50b26ac84ef6eb176316394da13794e87"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.armv6l-linux-musleabihf.tar.gz"
 [[catch22]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8da835daa6263c0dc590fb331e26e2b5674b88d4"
+git-tree-sha1 = "5f83a4269bcdb2d5c4d689880221dbe6cd5b4596"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "d08f463acc2f7b3d05c469c6f0259800e60596e0a8f18ed183f7ceefca96a648"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "732e3e29482bbfed692293285a342d502706a200cf73a0da674eb326e0798374"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.armv7l-linux-gnueabihf.tar.gz"
 [[catch22]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fbbef2dd6a684a6703d0af7b9d400e48fea07c45"
+git-tree-sha1 = "ebe16e80337bf20b28828128b27ae3322b470f82"
 libc = "musl"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "f11725260e53b2498e67d98aa3400c2a2a097325389c3640b276004bb79f7694"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "b996ea124e29dbae1cdec4f29521e31b179266b26674920fff93fba4305317f1"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.armv7l-linux-musleabihf.tar.gz"
 [[catch22]]
 arch = "i686"
-git-tree-sha1 = "c601eb7b8984e6f930d696113ee413abd0a7e06d"
+git-tree-sha1 = "1ef486441a2e9848731638c8c1f1865682c3a3cd"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "79cb0ba4196462444f7157b3b2d1d8f9060cf644ad901ccc5bffc9ec44326ceb"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.i686-linux-gnu.tar.gz"
+    sha256 = "00982399adfc27fb81a476660a5ce49082ae52839d8ca6ced79231f10ad0fb6b"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.i686-linux-gnu.tar.gz"
 [[catch22]]
 arch = "i686"
-git-tree-sha1 = "1f3f73de1c1a2d5a1a7d3f45a4c5245f63cb1f35"
+git-tree-sha1 = "e822405af00c987a8c010ddfae0e569b6694e0d1"
 libc = "musl"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "ab5f963dffdb185190f1b4569e8833e7db2984d22fcf07cd0fbd497dfc7ff8f1"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.i686-linux-musl.tar.gz"
+    sha256 = "f7111964093f85388b3e1ad600234d929c5802d27d46959ca755a20a038cac1b"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.i686-linux-musl.tar.gz"
 [[catch22]]
 arch = "i686"
-git-tree-sha1 = "a48d8749a37207543e300fa770ba8e2ad485d4eb"
+git-tree-sha1 = "955ea7520190f8ff02e25b2bff1ef5e2ef31b398"
 os = "windows"
 
     [[catch22.download]]
-    sha256 = "51d374686e6a25f90cafeb54ece64fe12504fac4731bd8831a619d4c87d799cf"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.i686-w64-mingw32.tar.gz"
+    sha256 = "65b572f0db7f993bad97941ae877585421fe10efa5d026a4a855338daf389dc4"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.i686-w64-mingw32.tar.gz"
 [[catch22]]
 arch = "powerpc64le"
-git-tree-sha1 = "619a1a015b98d3aa49729ca452736137dc93e146"
+git-tree-sha1 = "f76dc7a11f9036ee0035c94b84dc8d4fd16fe7dc"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "b173bb76e716f970222698a891aeb16cc379376a32230effb7322d0fdc4e873e"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "041e4f83d688bdc36bc22f4d92d476990dcd31ce96450c739c7ea2226d54e2c1"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.powerpc64le-linux-gnu.tar.gz"
 [[catch22]]
 arch = "riscv64"
-git-tree-sha1 = "3e7d0d6a24a94db4955c26f549cfa0b8c8c4e222"
+git-tree-sha1 = "825e0c90500717d392a0b12d7696de8bfdfca139"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "be610869064cbd51e9ea33feb92c5c879a9d9a68e32fe6abf012237a64a9d1af"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "2efff75479e363c9e5abd8589238aefdd26fe3c5fa711f08155633ade44de1d5"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.riscv64-linux-gnu.tar.gz"
 [[catch22]]
 arch = "x86_64"
-git-tree-sha1 = "31a44309855792a3521c8f765d6d2541944a1e89"
+git-tree-sha1 = "7d08370c19b8727e569f59365ae3300fc85489ca"
 os = "macos"
 
     [[catch22.download]]
-    sha256 = "e2aaecd10e76dc87461ffebda11665ce42a64ac73867527cce15e778e834f11d"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "ce0fd034f3b00227c1294f628656ba6669e5aa5ff57b99464090f05b258483b3"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.x86_64-apple-darwin.tar.gz"
 [[catch22]]
 arch = "x86_64"
-git-tree-sha1 = "975031374fac75bbccf09f724bee5922ede0077a"
+git-tree-sha1 = "1655b1a40af1d3094dc951a652e3b86d43308ea0"
 libc = "glibc"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "c687469682bd55263243f7d96696fefe515f025b3f192c95bac6deb150b4d179"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "69f527e675ef9d4382e7d5ce889df7ef1254373eca6759a0bb3d812de68a50e0"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.x86_64-linux-gnu.tar.gz"
 [[catch22]]
 arch = "x86_64"
-git-tree-sha1 = "1703727abf5b55141b82c395298e68804b3fe4a5"
+git-tree-sha1 = "9b957289459194f7f203f8f7ce5a7a91785141e4"
 libc = "musl"
 os = "linux"
 
     [[catch22.download]]
-    sha256 = "6968f2a9ab6f11871b6883e84a8f2fe5b93aa7645748bc460dd9e686f74adc61"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.x86_64-linux-musl.tar.gz"
+    sha256 = "25dcfbfa6d9be7d3393dc27fc765ead677ed6080db5d1d5651d4aaf3a719831c"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.x86_64-linux-musl.tar.gz"
 [[catch22]]
 arch = "x86_64"
-git-tree-sha1 = "4212a48a0c114274c0c1100a1e824427ff97ffaf"
+git-tree-sha1 = "be5e51b7c742637ad4decf0c1e1b59373565bf51"
 os = "freebsd"
 
     [[catch22.download]]
-    sha256 = "7640d7452c58c59d7dd058dd5b5d45b8af337cc17adccb676e099f7ed5d61760"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "3677896b183bb9cb92a433675a032eaa5a60787e5154b4d4b5e73cce7206482b"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.x86_64-unknown-freebsd.tar.gz"
 [[catch22]]
 arch = "x86_64"
-git-tree-sha1 = "df8de4b3d14f77cc71d3ed1184244f96dd69dc92"
+git-tree-sha1 = "b997d82a8e7174554bad0aef0cb1e80c179e522d"
 os = "windows"
 
     [[catch22.download]]
-    sha256 = "7d309b7c6c4c93812a4658f1b52b70d2d1d251689e32e47142665e33953d653e"
-    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.6.0+0/catch22.v0.6.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "6ece3eb72a2c932372d4010a674270507d02b596c180a47614422ae388e466fd"
+    url = "https://github.com/JuliaBinaryWrappers/catch22_jll.jl/releases/download/catch22-v0.7.0+0/catch22.v0.7.0.x86_64-w64-mingw32.tar.gz"
